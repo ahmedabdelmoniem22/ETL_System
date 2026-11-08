@@ -30,7 +30,5 @@ Each run appends the processed records to `sales_data.txt`; running it again add
 | `cleaner.py` | Converts the `amount` field to an integer and maps `"Free"` to `0`. |
 | `loader.py` | Prints records and appends them to `sales_data.txt`. |
 | `sales_data.txt` | Output file containing saved sales records. |
-| `app.py` | Separate small entry point that displays a welcome message and imports the tax module. |
-| `tax_calculator.py` | Defines `apply_tax(amount)`, which subtracts 14% from the amount. |
 
-The tax calculator is not currently used by the ETL pipeline.
+
