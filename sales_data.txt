@@ -1,8 +1,0 @@
-Order : 101 | Customer : Ahmed | Amount : 250 $
-Order : 102 | Customer : Sara | Amount : 150 $
-Order : 103 | Customer : Ali | Amount : 0 $
-Order : 104 | Customer : Mona | Amount : 300 $
-Order : 101 | Customer : Ahmed | Amount : 250 $
-Order : 102 | Customer : Sara | Amount : 150 $
-Order : 103 | Customer : Ali | Amount : 0 $
-Order : 104 | Customer : Mona | Amount : 300 $
